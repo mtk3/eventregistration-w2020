@@ -5,4 +5,4 @@ before_install:
 
 script:
 - cd EventRegistration-Backend
-- gradlew build 
+- gradle build 
